@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "https://tonganh.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css",
-    "main.js": "https://tonganh.github.io/task-management-frontend/static/js/main.1f24c776.chunk.js",
-    "main.js.map": "https://tonganh.github.io/task-management-frontend/static/js/main.1f24c776.chunk.js.map",
+    "main.js": "https://tonganh.github.io/task-management-frontend/static/js/main.a4db22a9.chunk.js",
+    "main.js.map": "https://tonganh.github.io/task-management-frontend/static/js/main.a4db22a9.chunk.js.map",
     "runtime~main.js": "https://tonganh.github.io/task-management-frontend/static/js/runtime~main.c8c664e9.js",
     "runtime~main.js.map": "https://tonganh.github.io/task-management-frontend/static/js/runtime~main.c8c664e9.js.map",
-    "static/js/2.6497980f.chunk.js": "https://tonganh.github.io/task-management-frontend/static/js/2.6497980f.chunk.js",
-    "static/js/2.6497980f.chunk.js.map": "https://tonganh.github.io/task-management-frontend/static/js/2.6497980f.chunk.js.map",
+    "static/js/2.007626ac.chunk.js": "https://tonganh.github.io/task-management-frontend/static/js/2.007626ac.chunk.js",
+    "static/js/2.007626ac.chunk.js.map": "https://tonganh.github.io/task-management-frontend/static/js/2.007626ac.chunk.js.map",
     "index.html": "https://tonganh.github.io/task-management-frontend/index.html",
-    "precache-manifest.0d81a010db898114703557932d2509c4.js": "https://tonganh.github.io/task-management-frontend/precache-manifest.0d81a010db898114703557932d2509c4.js",
+    "precache-manifest.18775282efb155009dec9993f538a392.js": "https://tonganh.github.io/task-management-frontend/precache-manifest.18775282efb155009dec9993f538a392.js",
     "service-worker.js": "https://tonganh.github.io/task-management-frontend/service-worker.js",
     "static/css/main.5ac26d30.chunk.css.map": "https://tonganh.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css.map"
   }

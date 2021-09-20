@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cc06c2bee7aec2b048c5595a4a1f21ce",
+    "revision": "a1bb19bfbd7dd2f486b96b4f09a303f3",
     "url": "https://tonganh.github.io/task-management-frontend/index.html"
   },
   {
-    "revision": "1b46a11b65278f2f13fb",
+    "revision": "93d8fc857f7998f53a9d",
     "url": "https://tonganh.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css"
   },
   {
-    "revision": "4e07bbd3ab69d6386d47",
-    "url": "https://tonganh.github.io/task-management-frontend/static/js/2.6497980f.chunk.js"
+    "revision": "d9bc30e82a466915dd2b",
+    "url": "https://tonganh.github.io/task-management-frontend/static/js/2.007626ac.chunk.js"
   },
   {
-    "revision": "1b46a11b65278f2f13fb",
-    "url": "https://tonganh.github.io/task-management-frontend/static/js/main.1f24c776.chunk.js"
+    "revision": "93d8fc857f7998f53a9d",
+    "url": "https://tonganh.github.io/task-management-frontend/static/js/main.a4db22a9.chunk.js"
   },
   {
     "revision": "9dc04e8beee7e84480f8",
